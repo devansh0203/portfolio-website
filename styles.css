@@ -1,0 +1,48 @@
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+	font-family: "Open Sans", sans-serif;
+}
+#header{
+	background-color:#172554;
+	padding: 30px;
+}
+.logo{
+	float: left;
+	padding-left: 100px;
+	font-size: larger;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	color: white;
+	text-decoration-line: none;
+}
+.class-links{
+	font-size: larger;
+	display: flex;
+	justify-content:right;
+	gap: 90px;
+	padding-right: 100px;
+}
+.home-section{
+	background-color: dodgerblue;
+	padding: 30px;
+}
+h1, p{
+	color: white;
+	text-align: center;
+}
+
+#hire{
+	padding-left: 490px;
+}
+span{
+	background-color: #172554;
+	text-align: center;
+	margin: 90px;
+	padding: 10xp;
+}
+
+
